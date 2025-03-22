@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Cache files
+.cache/
+**/.cache/
+**/mongodb-memory-server/
+
+# OS files
+.DS_Store
+
+Back/node_modules/mongodb-memory-server/
